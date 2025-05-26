@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador colombiano apasionado por crear soluciones tecnológicas con impacto real. Tengo experiencia en:
+Soy un desarrollador Ingeniero apasionado por crear soluciones tecnológicas con impacto real. Tengo experiencia en:
 
 - Desarrollo de aplicaciones móviles con Kotlin y Jetpack Compose
 - Construcción de sistemas web robustos con Laravel y APIs RESTful
@@ -51,10 +51,8 @@ Soy un desarrollador colombiano apasionado por crear soluciones tecnológicas co
 
 ## 📫 Contáctame
 
-- 💼 [LinkedIn Principal](https://www.linkedin.com/in/daniel-david-arroyo-violet)
-- 💼 [LinkedIn Alterno](https://linkedin.com/in/daniel-arroyo-ingeniero-en-sistemas)
-- 🌐 [Sitio Web Personal](https://danieldavidarroyoviolet.dev)
-- 📧 danidavidarroyoviolet@gmail.com
+- 💼 [LinkedIn Principal](https://linkedin.com/in/daniel-arroyo-ingeniero-en-sistemas)
+- 📧 daniarroyoviolet2016@gmail.com
 
 ---
 
