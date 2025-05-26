@@ -30,16 +30,16 @@ Soy un desarrollador full stack colombiano con experiencia en aplicaciones móvi
 
 ### 📈 Estadísticas de GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=danidevarroyoviolet&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danidevarroyoviolet&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=danielzetsu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielzetsu&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Contáctame
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-david-arroyo-violet)
+- 💼 [LinkedIn](linkedin.com/in/daniel-arroyo-ingeniero-en-sistemas)
 - 🌐 [Sitio web personal](https://danieldavidarroyoviolet.dev)
-- 📧 Email: tuemail@dominio.com
+- 📧 Email: daniarroyoviolet2016@gmail.com
 
 ---
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
