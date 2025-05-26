@@ -1,45 +1,41 @@
-# 👨‍💻 Daniel David Arroyo Violet
+# 👋 Hola, soy Daniel David Arroyo Violet
 
-**Full Stack Developer** | Kotlin · Python · PHP · Java  
-🇨🇴 Colombia  
-🌐 [danieldavidarroyoviolet.dev](https://danieldavidarroyoviolet.dev)  
-🐙 GitHub: [danidevarroyoviolet](https://github.com/danidevarroyoviolet)
-
----
-
-### 🚀 Sobre mí
-
-Soy un desarrollador full stack colombiano con experiencia en aplicaciones móviles y web. Me especializo en:
-
-- ✅ Aplicaciones móviles con **Kotlin** y **Jetpack Compose**
-- ✅ Desarrollo backend con **Laravel (PHP)** y **Python**
-- ✅ Proyectos en **Java**, especialmente para soluciones empresariales
-- ✅ Automatización, APIs REST, diseño limpio y enfoque modular
+🎯 **Full Stack Developer**  
+💻 Kotlin • PHP • Python • Java  
+🌍 Colombia  
+🔗 [danieldavidarroyoviolet.dev](https://danieldavidarroyoviolet.dev)  
+📫 danidavidarroyoviolet@gmail.com  
 
 ---
 
-### 🛠️ Tecnologías que uso
+## 🚀 Tecnologías que uso
 
-- Frontend: HTML5, CSS3, JavaScript, React Native
-- Backend: PHP (Laravel), Python (Flask, FastAPI), Java (Spring Boot)
-- Mobile: Kotlin, Jetpack Compose
-- Base de datos: MySQL, PostgreSQL, SQLite
-- Otros: Git, GitHub, Docker, n8n, VS Code
-
----
-
-### 📈 Estadísticas de GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=danielzetsu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielzetsu&layout=compact&theme=tokyonight)
+- Backend: PHP (Laravel), Python, Java
+- Frontend: HTML, CSS, JavaScript, Blade, React Native
+- Mobile: Jetpack Compose, Kotlin
+- Bases de datos: MySQL, PostgreSQL, SQL Server
+- DevOps: Git, GitHub, CI/CD (en progreso)
+- Otros: TDD, Clean Code, REST APIs
 
 ---
 
-### 📫 Contáctame
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](linkedin.com/in/daniel-arroyo-ingeniero-en-sistemas)
-- 🌐 [Sitio web personal](https://danieldavidarroyoviolet.dev)
-- 📧 Email: daniarroyoviolet2016@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danidavidarroyoviolet-dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danidavidarroyoviolet-dev&layout=compact&theme=dark)
 
 ---
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+## 📂 Proyectos Destacados
+
+| Proyecto | Descripción |
+|---------|-------------|
+| 📱 IMC Salud App | Calculadora de IMC con Kotlin y Jetpack Compose. |
+| 🌐 Traductor App | Traductor multilenguaje con voz y texto en React Native. |
+| ⚖️ Toma Decisión | App para tomar decisiones con múltiples opciones. |
+| 📖 Constitución EC | Constitución del Ecuador en app móvil accesible. |
+
+---
+
+> 🚀 *Enfocado en seguir aprendiendo, colaborando y aportando a la comunidad tech.*
+
