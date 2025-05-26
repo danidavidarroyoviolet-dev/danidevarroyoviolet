@@ -8,60 +8,54 @@
 
 ---
 
-## 🚀 Tecnologías que uso
+## 👨‍💻 Sobre mí
 
-- Backend: PHP (Laravel), Python, Java
-- Frontend: HTML, CSS, JavaScript, Blade, React Native
-- Mobile: Jetpack Compose, Kotlin
-- Bases de datos: MySQL, PostgreSQL, SQL Server
-- DevOps: Git, GitHub, CI/CD (en progreso)
-- Otros: TDD, Clean Code, REST APIs
+Soy un desarrollador colombiano apasionado por crear soluciones tecnológicas con impacto real. Tengo experiencia en:
+
+- Desarrollo de aplicaciones móviles con Kotlin y Jetpack Compose
+- Construcción de sistemas web robustos con Laravel y APIs RESTful
+- Automatización de procesos usando **n8n**
+- Integración de IA generativa y herramientas modernas
+- Buenas prácticas como **Clean Code** y **TDD**
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tecnologías que uso
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danidavidarroyoviolet-dev&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danidavidarroyoviolet-dev&layout=compact&theme=dark)
+- **Backend**: PHP, Python, Java  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Mobile**: Kotlin, Jetpack Compose  
+- **Bases de datos**: MySQL, PostgreSQL, SQL Server  
+- **Frameworks**: Laravel, Spring Boot, Django, Vue.js  
+- **DevOps**: Git, GitHub, CI/CD (aprendiendo)  
+- **Buenas prácticas**: Clean Code, TDD, APIs RESTful
 
 ---
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción |
-|---------|-------------|
-| 📱 IMC Salud App | Calculadora de IMC con Kotlin y Jetpack Compose. |
-| 🌐 Traductor App | Traductor multilenguaje con voz y texto en React Native. |
-| ⚖️ Toma Decisión | App para tomar decisiones con múltiples opciones. |
-| 📖 Constitución EC | Constitución del Ecuador en app móvil accesible. |
+| Proyecto            | Descripción                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Traductor Web**   | Traductor multilenguaje con voz y texto usando Laravel y JavaScript         |
+| **Dashboard Integral** | Gestión operativa empresarial multiplataforma con Laravel y Vue            |
+| **App de Seguros**  | Compra de seguros para vehículos con Kotlin y Jetpack Compose               |
 
 ---
 
-# 👨‍💻 Daniel David Arroyo Violet
+## 📊 Estadísticas de GitHub
 
-🎯 **Full Stack Developer** | Kotlin · PHP · Python · Java  
-🇨🇴 Desde Colombia
-
-Soy un desarrollador apasionado por la creación de soluciones tecnológicas prácticas. Tengo experiencia en desarrollo de aplicaciones móviles con Kotlin y Jetpack Compose, sistemas web con Laravel y Blade, automatización con n8n, e integración de IA generativa en proyectos reales. Siempre estoy en busca de retos donde pueda aplicar mis habilidades y seguir aprendiendo.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danidavidarroyoviolet-dev&show_icons=true&theme=tokyonight&hide=prs,issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danidavidarroyoviolet-dev&layout=compact&theme=tokyonight)
 
 ---
 
-### 📈 Estadísticas de GitHub
+## 📫 Contáctame
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danidavidarroyoviolet-dev&show_icons=true&theme=tokyonight&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danidavidarroyoviolet-dev&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Contáctame
-
-- 💼 [LinkedIn #1](https://www.linkedin.com/in/daniel-david-arroyo-violet)
-- 💼 [LinkedIn #2](https://linkedin.com/in/daniel-arroyo-ingeniero-en-sistemas)
-- 🌐 [Sitio web personal](https://danieldavidarroyoviolet.dev)
-- 📧 Email: daniarroyoviolet2016@gmail.com
+- 💼 [LinkedIn Principal](https://www.linkedin.com/in/daniel-david-arroyo-violet)
+- 💼 [LinkedIn Alterno](https://linkedin.com/in/daniel-arroyo-ingeniero-en-sistemas)
+- 🌐 [Sitio Web Personal](https://danieldavidarroyoviolet.dev)
+- 📧 danidavidarroyoviolet@gmail.com
 
 ---
 
-
-> 🚀 *Enfocado en seguir aprendiendo, colaborando y aportando a la comunidad tech.*
-
+> 🚀 *En constante aprendizaje, colaboración y construcción de soluciones tecnológicas reales.*
