@@ -37,5 +37,31 @@
 
 ---
 
+# 👨‍💻 Daniel David Arroyo Violet
+
+🎯 **Full Stack Developer** | Kotlin · PHP · Python · Java  
+🇨🇴 Desde Colombia
+
+Soy un desarrollador apasionado por la creación de soluciones tecnológicas prácticas. Tengo experiencia en desarrollo de aplicaciones móviles con Kotlin y Jetpack Compose, sistemas web con Laravel y Blade, automatización con n8n, e integración de IA generativa en proyectos reales. Siempre estoy en busca de retos donde pueda aplicar mis habilidades y seguir aprendiendo.
+
+---
+
+### 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danidavidarroyoviolet-dev&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danidavidarroyoviolet-dev&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contáctame
+
+- 💼 [LinkedIn #1](https://www.linkedin.com/in/daniel-david-arroyo-violet)
+- 💼 [LinkedIn #2](https://linkedin.com/in/daniel-arroyo-ingeniero-en-sistemas)
+- 🌐 [Sitio web personal](https://danieldavidarroyoviolet.dev)
+- 📧 Email: daniarroyoviolet2016@gmail.com
+
+---
+
+
 > 🚀 *Enfocado en seguir aprendiendo, colaborando y aportando a la comunidad tech.*
 
